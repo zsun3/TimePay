@@ -1,0 +1,40 @@
+[
+    {
+      "id": "user1",
+      "username": "Alice",
+      "email": "alice@example.com",
+      "password": "password123",
+      "admin": true,
+      "cash_reserve": 100000,
+      "profile": {
+        "bio": "Software Developer",
+        "location": "New York"
+      }
+    },
+    {
+      "id": "user2",
+      "username": "Bob",
+      "email": "bob@example.com",
+      "password": "securepass",
+      "admin": false,
+      "salary": 4000,
+      "yoe": 1,
+      "profile": {
+        "bio": "Data Scientist",
+        "location": "London"
+      }
+    },
+    {
+        "id": "user3",
+        "username": "Charlie",
+        "email": "charlie@example.com",
+        "password": "mysecret",
+        "admin": false, 
+        "salary": 5000,
+        "yoe":2,
+        "profile":{
+            "bio": "Web Designer",
+            "location": "Tokyo"
+        }
+    }
+  ]
